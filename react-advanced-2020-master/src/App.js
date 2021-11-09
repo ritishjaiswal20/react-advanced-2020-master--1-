@@ -1,5 +1,5 @@
 import React from 'react'
-import Setup from './tutorial/2-useEffect/setup/2-useEffect-cleanup.js'
+import Setup from './tutorial/4-forms/setup/1-controlled-inputs.js'
 function App() {
   return (
     <div className='container'>
@@ -7,5 +7,4 @@ function App() {
     </div>
   )
 }
-
 export default App
